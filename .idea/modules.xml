@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe1.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Number of occurrences/Tic-Tac-Toe1.Problems-Number_of_occurrences.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Number of occurrences/Tic-Tac-Toe1.Problems-Number_of_occurrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Number of occurrences/Tic-Tac-Toe1.Problems-Number_of_occurrences.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Number of occurrences/Tic-Tac-Toe1.Problems-Number_of_occurrences.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Number of occurrences/Tic-Tac-Toe1.Problems-Number_of_occurrences.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Number of occurrences/Tic-Tac-Toe1.Problems-Number_of_occurrences.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Tic-Tac-Toe1.Problems-Palindrome.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Tic-Tac-Toe1.Problems-Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Tic-Tac-Toe1.Problems-Palindrome.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Tic-Tac-Toe1.Problems-Palindrome.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Tic-Tac-Toe1.Problems-Palindrome.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Tic-Tac-Toe1.Problems-Palindrome.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The longest word/Tic-Tac-Toe1.Problems-The_longest_word.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The longest word/Tic-Tac-Toe1.Problems-The_longest_word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The longest word/Tic-Tac-Toe1.Problems-The_longest_word.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The longest word/Tic-Tac-Toe1.Problems-The_longest_word.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The longest word/Tic-Tac-Toe1.Problems-The_longest_word.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The longest word/Tic-Tac-Toe1.Problems-The_longest_word.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Tic-Tac-Toe1.Problems-The_percentage_of_G_and_C_characters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Tic-Tac-Toe1.Problems-The_percentage_of_G_and_C_characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Tic-Tac-Toe1.Problems-The_percentage_of_G_and_C_characters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Tic-Tac-Toe1.Problems-The_percentage_of_G_and_C_characters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Tic-Tac-Toe1.Problems-The_percentage_of_G_and_C_characters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Tic-Tac-Toe1.Problems-The_percentage_of_G_and_C_characters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe1.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe1.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe1.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe1.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe1.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe1.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe1.util.test.iml" />
+    </modules>
+  </component>
+</project>
